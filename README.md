@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CRUD Mahasiswa - Laravel 12 (Muhammad Hugo Pratama)
 
 ## Deskripsi
