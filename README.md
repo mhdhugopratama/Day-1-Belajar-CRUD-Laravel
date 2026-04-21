@@ -144,6 +144,3 @@ http://127.0.0.1:8000/mahasiswa
 
 Project ini dibuat sebagai latihan dasar memahami Laravel.
 Masih banyak hal yang bisa dikembangkan seperti pagination, search, dan autentikasi.
-=======
-# Day-1-Belajar-CRUD-Laravel
->>>>>>> 29010ce8c5c83d255afbcc6dd93fd956d5e05ea2
